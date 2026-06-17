@@ -1,4 +1,4 @@
-# 👗 Myntra Fashion Product Analysis Dashboard
+# Myntra Fashion Product Analysis Dashboard
 
 ## 📌 Project Overview
 
@@ -114,17 +114,6 @@ The dataset contains fashion product information from Myntra, including:
 
 ---
 
-## 📁 Repository Structure
-
-```
-├── Myntra.pbix
-├── Dataset
-├── Screenshots
-├── README.md
-```
-
----
-
 ## 📌 Future Enhancements
 
 - Add advanced customer segmentation.
@@ -142,5 +131,3 @@ The dataset contains fashion product information from Myntra, including:
 - GitHub: https://github.com/SumitTodkar
 
 ---
-
-## ⭐ If you found this project useful, please give it a star!
